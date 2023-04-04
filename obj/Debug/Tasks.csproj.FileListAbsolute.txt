@@ -1,0 +1,8 @@
+C:\Users\Lenovo ThinkPad\Videos\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\Lenovo ThinkPad\Videos\Tasks\bin\Debug\Tasks.exe
+C:\Users\Lenovo ThinkPad\Videos\Tasks\bin\Debug\Tasks.pdb
+C:\Users\Lenovo ThinkPad\Videos\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+C:\Users\Lenovo ThinkPad\Videos\Tasks\obj\Debug\Tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo ThinkPad\Videos\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo ThinkPad\Videos\Tasks\obj\Debug\Tasks.exe
+C:\Users\Lenovo ThinkPad\Videos\Tasks\obj\Debug\Tasks.pdb
